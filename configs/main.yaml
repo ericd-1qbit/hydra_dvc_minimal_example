@@ -1,0 +1,8 @@
+tag: default
+list_option:
+  - opt1
+  - opt2
+
+defaults:
+  - _self_
+  - model: mymodel
